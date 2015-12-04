@@ -1,4 +1,3 @@
-@@ -0,0 +1,61 @@
 ---
 layout: tutorial
 title: Hana Configure Tutorial from Github
