@@ -9,7 +9,7 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial:technolo
 
 
 ## Prerequisites  
-[How to create an SAP HANA Developer Edition in the Cloud](/developer/tutorials/setup-hana-for-cloud.html)
+[How to create an SAP HANA Developer Edition in the Cloud](http://go-qa-sap.com/developer/tutorials/setup-hana-for-cloud.html)
 
 ## Details
 
@@ -27,19 +27,19 @@ Beginners will take 30 minutes to finish this tutorial.
 
 ## Host Configuration
 
-Access your HANA instance that was created in ["How to create an SAP HANA Developer Edition in the Cloud"](/developer/tutorials/setup-hana-for-cloud.html).
+Access your HANA instance that was created in ["How to create an SAP HANA Developer Edition in the Cloud"](http://go-qa-sap.com/developer/tutorials/setup-hana-for-cloud.html).
 
 Chose Notepad as the Open with Editor.
 
-![](https://raw.githubusercontent.com/testorgiz/test-tutorials/master/tutorials/hana-config-gt/hana_01_host_02.png)
+![](https://raw.githubusercontent.com/testorgiz/test-tutorials/master/tutorials/hana-configure-gt/hana_01_host_02.png)
 
 Replace the current IP address in front of the hostname hanapm with the specific IP address for this workshop which was supplied by your instructor.
 
-![](https://raw.githubusercontent.com/testorgiz/test-tutorials/master/tutorials/hana-config-gt/hana_01_host_03.png)
+![](https://raw.githubusercontent.com/testorgiz/test-tutorials/master/tutorials/hana-configure-gt/hana_01_host_03.png)
 
 Save the content. Exit Notepad.
 
-![](https://raw.githubusercontent.com/testorgiz/test-tutorials/master/tutorials/hana-config-gt/hana_01_host_04.png)
+![](https://raw.githubusercontent.com/testorgiz/test-tutorials/master/tutorials/hana-configure-gt/hana_01_host_04.png)
 
 
 Getting Help
@@ -52,10 +52,10 @@ If you need addition help resources beyond this document, we would suggest the f
 
 Source code solutions
 
-All source code solutions and templates for all exercises in this document can be found in the following webpage: <http://hanapm:8005/workshop/admin/ui/exerciseMaster/?workshop=xs>
+All source code solutions and templates for all exercises in this document can be found in the following webpage: <http://www.cnn.com/>
 
 ## HANA Studio Configuration
 
-### ![](https://raw.githubusercontent.com/testorgiz/test-tutorials/master/tutorials/hana-config-gt/icon_gold_circle_01.svg) Adding the HANA Studio Perspectives
+### ![](https://raw.githubusercontent.com/testorgiz/test-tutorials/master/tutorials/hana-configure-gt/icon_gold_circle_01.svg) Adding the HANA Studio Perspectives
 
 Open the HANA Studio via the Windows Start menu or via the Icon on your Start bar.
