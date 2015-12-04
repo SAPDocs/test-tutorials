@@ -9,7 +9,7 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial:technolo
 
 
 ## Prerequisites  
-[How to create an SAP HANA Developer Edition in the Cloud](http://go-qa-sap.com/developer/tutorials/setup-hana-for-cloud.html)
+[How to create an SAP HANA Developer Edition in the Cloud](http://go-qa.sap.com/developer/tutorials/setup-hana-for-cloud.html)
 
 ## Details
 
@@ -27,7 +27,7 @@ Beginners will take 30 minutes to finish this tutorial.
 
 ## Host Configuration
 
-Access your HANA instance that was created in ["How to create an SAP HANA Developer Edition in the Cloud"](http://go-qa-sap.com/developer/tutorials/setup-hana-for-cloud.html).
+Access your HANA instance that was created in ["How to create an SAP HANA Developer Edition in the Cloud"](http://go-qa.sap.com/developer/tutorials/setup-hana-for-cloud.html).
 
 Chose Notepad as the Open with Editor.
 
