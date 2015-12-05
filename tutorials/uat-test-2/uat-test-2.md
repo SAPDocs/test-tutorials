@@ -8,24 +8,24 @@ You can use:
 
 ***Text*** (including bold, italic, etc)
 
-  **Example:** 
+  **Example:**
 It's very easy to make some words **bold** and other words *italic* and ***bold italic*** with Markdown.
 
 ***Headers***
 
-  **Example:** 
-# This is an h1 header 
+  **Example:**
+# This is an h1 header
 ## This is an h2 header
 ###### This is an h6 header
 
 ***Lists***
 
-  **Example:** 
-  
+  **Example:**
+
 Sometimes you want numbered lists:
 
 1. One
-2. Two 
+2. Two
 3. Three
 
 Sometimes you want bullet points:
@@ -33,7 +33,7 @@ Sometimes you want bullet points:
 * Start a line with a star
 * Profit!
 
-You can create nested lists: 
+You can create nested lists:
 
 * item1
     * one_one
@@ -41,13 +41,13 @@ You can create nested lists:
 
 ***Blockquotes***
 
-  **Example:** 
+  **Example:**
 In the words of Abraham Lincoln:
 > Pardon my French
 
 ***Links***
 
-  **Example:** 
+  **Example:**
 [Primer] [id]:
 [id]: http://tut.by
 
@@ -59,13 +59,13 @@ In the words of Abraham Lincoln:
 
 Format: `![Alt Text](url)`
 
-  **Example:** 
+  **Example:**
 ![Image](https://octodex.github.com/images/yaktocat.png)
-![Example](https://raw.githubusercontent.com/testorgiz/test-tutorials/master/tutorials/uat-test-2/ico-01.png)
+![Example](/master/tutorials/uat-test-2/ico-01.png)
 
 ***Code blocks:***
 
-  **Example:** 
+  **Example:**
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -75,8 +75,8 @@ function fancyAlert(arg) {
 ```
 ***Task Lists*** (Please note, this requires empty line before task list):
 
-  **Example:** 
-  
+  **Example:**
+
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
@@ -84,7 +84,7 @@ function fancyAlert(arg) {
 
 ***Tables:***
 
-  **Example:** 
+  **Example:**
 
 First Header | Second Header
 ------------ | -------------
