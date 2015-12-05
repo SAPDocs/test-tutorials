@@ -1,6 +1,7 @@
 ---
 layout: tutorial
 title: Hana Configure Tutorial from Github
+description: Hana Configure Tutorial from Github
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial:technology/sql]
 ---
 # HANA 101 - Getting Started, and connecting the Web Workbench
