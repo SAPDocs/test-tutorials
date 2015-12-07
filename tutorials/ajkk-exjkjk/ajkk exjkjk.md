@@ -1,8 +1,8 @@
 ---
 layout: tutorial
-title: Hana Configure Tutorial from Github - Alex is testing!
-description: Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. 
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial:technology/sql, tutorial:technology/nonexisting]
+title: HAHA Configure Tutorial from Github
+description: Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. Hana Configure Tutorial from Github. 
+tags: [tutorial:product/sapHana, tutorial:technology/sql, tutorial:technology/nonexisting]
 ---
 # HANA 101 - Getting Started, and connecting the Web Workbench
 
