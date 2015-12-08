@@ -1,12 +1,14 @@
 ---
 layout: tutorial
-title: Hana Configure Tutorial from Github - Alex is testing!
+title: Hana Configure Tutorial from Github - Lalit is testing!
 description: Tutorial Renamed 
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial:technology/sql, tutorial:technology/nonexisting]
 ---
 ## HANA 101 - Getting Started, and connecting the Web Workbench
 
-## Access your first data in a native HANA Application. Demo to Frank and Peter with Nadine keeping a track on me.
+### Access your first data in a native HANA Application
+
+Demo with Frank and Peter.
 
 
 ## Prerequisites  
