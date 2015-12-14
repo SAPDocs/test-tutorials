@@ -2,7 +2,7 @@
 layout: tutorial
 title: Hana Configure Tutorial from Github - Lalit is testing!
 description: Tutorial Renamed 
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial:technology/sql, tutorial:technology/nonexisting]
+tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial:technology/sql]
 ---
 ## HANA 101 - Getting Started, and connecting the Web Workbench
 
