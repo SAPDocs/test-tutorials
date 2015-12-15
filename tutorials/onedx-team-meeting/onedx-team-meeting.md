@@ -1,7 +1,7 @@
 ---
 title: onedx-team-meeting
 description: onedx-team-meeting
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [products:tech/73554900100700000996]
 ---
 
 You can use:
